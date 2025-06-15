@@ -11,13 +11,13 @@ This event brings together four powerful domains that are transforming the tech 
 - 🌐 **Internet of Things (IoT)** – with **Abdelrahman Omar**
 - 🧠 **Machine Learning** – with **Nada Al-Aqrab**
 - 📊 **Modern Accounting** – with **Ahmed Eid**
+- 
 ## 📺 Watch Our Event Promo on YouTube
 
 Get an exciting preview of what **Zero & One** is all about by watching our official event trailer on YouTube! 🚀
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/your-video-id" frameborder="0" allowfullscreen></iframe>
-
+[Click here to watch the trailer](https://www.youtube.com/your-video-link)
 Don’t miss out on the opportunity to be a part of the most anticipated tech event of the year. 🌟
+
 ## 📅 Event Details
 
 - 🗓️ **Date:** Friday, July 18, 2025  
