@@ -15,7 +15,7 @@ This event brings together four powerful domains that are transforming the tech 
 ## 📺 Watch Our Event Promo on YouTube
 
 Get an exciting preview of what **Zero & One** is all about by watching our official event trailer on YouTube! 🚀
-[Click here to watch the trailer](https://www.youtube.com/your-video-link)
+[Click here to watch the trailer]([https://www.youtube.com/your-video-link](https://youtu.be/76iG6JiRaAg?si=53sGt58SOffGlGQg))
 Don’t miss out on the opportunity to be a part of the most anticipated tech event of the year. 🌟
 
 ## 📅 Event Details
